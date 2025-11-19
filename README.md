@@ -6,17 +6,10 @@ This simple program checks whether a given integer is even or odd.
 
 ## How to Run
 
-```bash
+'''bash
+g++ main.cpp -o evenodd
+./evenodd
 
-# Factorial Calculator in C++
-
-This program calculates the factorial of a non-negative integer using recursion.
-
-## How to Run
-
-```bash
-g++ main.cpp -o factorial
-./factorial
-
-
-
+concepts used
+- Modulo Operator
+- Conditional Statements
